@@ -1,21 +1,53 @@
 # esdecode
 
-esdecode is a marketplace for buying and selling source code, scripts, plugins, applications and templates.
+**A source code marketplace for independent developers.**
 
-## What you can find on esdecode
+esdecode helps developers discover, buy and sell production-ready scripts, plugins, applications, templates and self-hosted software with clear licensing and technical information.
 
-- PHP and Laravel scripts
-- WordPress plugins
-- JavaScript applications
-- React and Vue templates
-- SaaS starter kits
-- Admin dashboards
-- Self-hosted software
+[Explore esdecode](https://esdecode.com)
 
-Products include full source code, technical requirements, licensing information, documentation and seller details.
+## What you can find
 
-## Developer resources
+* PHP and Laravel scripts
+* WordPress plugins
+* JavaScript applications
+* React and Vue templates
+* SaaS starter kits
+* Admin dashboards
+* Self-hosted applications
+* Developer tools
 
-We publish free checklists, tools and guides for evaluating, buying and selling source code.
+Listings can include full source code, technical requirements, documentation, licensing details, changelogs and seller information.
 
-Visit [esdecode.com](https://esdecode.com).
+## Free developer resources
+
+We are building practical open resources for developers who evaluate, buy, sell and deploy source-code products.
+
+Planned resources include:
+
+* Source Code Purchase Checklist
+* Laravel Script Audit Checklist
+* WordPress Plugin Review Checklist
+* Seller Earnings Calculator
+* Software License Comparison Guide
+
+## For buyers
+
+Review product requirements, supported technologies, licensing, documentation, updates and seller information before purchasing.
+
+[Browse source-code products](https://esdecode.com)
+
+## For creators
+
+Publish reusable scripts, plugins, applications and templates and make your development work available to a global audience.
+
+[Start selling on esdecode](https://esdecode.com/sell)
+
+## Community
+
+* [Product Hunt](https://www.producthunt.com/products/esdecode-code-marketplace)
+* [Website](https://esdecode.com)
+
+## About
+
+esdecode is built for independent developers, software creators and teams looking for reusable source-code products.
