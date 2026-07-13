@@ -41,13 +41,13 @@ Review product requirements, supported technologies, licensing, documentation, u
 
 Publish reusable scripts, plugins, applications and templates and make your development work available to a global audience.
 
-[Start selling on esdecode](https://esdecode.com/sell)
+[Start selling on esdecode](https://esdecode.com/become-seller)
 
 ## Community
 
 * [Product Hunt](https://www.producthunt.com/products/esdecode-code-marketplace)
-* [Website](https://esdecode.com)
+* [Official website](https://esdecode.com)
 
-## About
+## About esdecode
 
 esdecode is built for independent developers, software creators and teams looking for reusable source-code products.
